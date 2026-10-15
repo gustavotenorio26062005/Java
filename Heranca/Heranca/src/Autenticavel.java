@@ -18,7 +18,7 @@ public abstract class Autenticavel extends Funcionario implements Autenticado {
 	public String login (String usuario, String senha) {
 		return "ok";
 	}
-	public String logff () {
+	public String logoff () {
 		return "desconectado";
 	}
 	

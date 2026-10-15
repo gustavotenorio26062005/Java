@@ -28,7 +28,7 @@ public class Cliente implements Autenticado{
 		return "Ok";
 	}
 	@Override
-	public String logff() {
+	public String logoff() {
 		return "desconectado";
 	}
 

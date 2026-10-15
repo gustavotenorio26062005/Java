@@ -1,0 +1,12 @@
+target/
+bin/
+out/
+*.class
+*.jar
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store

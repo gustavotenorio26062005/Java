@@ -11,7 +11,7 @@ class MinhaTarefa implements Runnable {
     }
 }
 
-public class runable {
+public class ExemploRunnable {
     public static void main(String[] args) {
         Thread t = new Thread(new MinhaTarefa());
         t.start(); // Inicia a thread
